@@ -1,4 +1,4 @@
-const isGithubPublish = (process.env.GITHUB_PUBLISH.trim() === 'true');
+const isGithubPublish = process.env.GITHUB_PUBLISH && (process.env.GITHUB_PUBLISH.trim() === 'true');
 module.exports = class {
     onInput(input,out) {
         
