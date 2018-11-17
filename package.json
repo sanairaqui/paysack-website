@@ -45,5 +45,5 @@
     "*.marko.js"
   ],
   "private": true,
-  "baseurl": "/ustadji"
+  "baseurl": "/paysack-website"
 }
