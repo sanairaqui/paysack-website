@@ -2,6 +2,7 @@
     "dependencies":[
 
     {"path":"./assets/css/main.css","type":"css"},
+    {"path":"./assets/js/jquery.min.js", "type":"js"},
     {"path":"./assets/js/jquery.scrollex.min.js", "type":"js"},
     {"path":"./assets/js/jquery.scrolly.min.js", "type":"js"},
     {"path":"./assets/js/browser.min.js", "type":"js"},
