@@ -12,7 +12,7 @@ module.exports = class {
             first_paragraph: list_map.first.data.paragraph,
             second_paragraph: list_map.second.data.paragraph,
             third_paragraph: list_map.third.data.paragraph,
-            forth_heading: list_map.forth.data.paragraph
+            forth_paragraph: list_map.forth.data.paragraph
         }
 
 
