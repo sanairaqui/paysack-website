@@ -7,8 +7,9 @@
     {"path":"./assets/js/jquery.scrolly.min.js", "type":"js"},
     {"path":"./assets/js/browser.min.js", "type":"js"},
     {"path":"./assets/js/breakpoints.min.js", "type":"js"},
-    {"path":"./assets/js/main.js", "type":"js"},
-    {"path":"./assets/js/util.js", "type":"js"}
+    
+    {"path":"./assets/js/util.js", "type":"js"},
+    {"path":"./assets/js/main.js", "type":"js"}
     
     ]
 }
