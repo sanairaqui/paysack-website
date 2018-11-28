@@ -21,7 +21,7 @@ let list_map = {
     "forth": {
         "data": {
             "heading": "LEARN & EARN",
-            "paragraph": "Employee engagement redefined. For organisations that believe Learning & Development of an employee is crucial.s"
+            "paragraph": "Employee engagement redefined. For organisations that believe Learning & Development of an employee is crucial."
         }
 
     }
